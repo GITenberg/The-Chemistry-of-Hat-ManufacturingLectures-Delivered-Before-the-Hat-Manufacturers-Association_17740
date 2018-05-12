@@ -1,0 +1,35 @@
+_repo: The-Chemistry-of-Hat-ManufacturingLectures-Delivered-Before-the-Hat-Manufacturers-Association_17740
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Watson
+    birthdate: 1845
+    deathdate: 1920
+    gutenberg_agent_id: '7576'
+    url: http://www.gutenberg.org/2009/agents/7576
+  editor:
+    agent_name: Shonk, Albert
+    gutenberg_agent_id: '7577'
+    url: http://www.gutenberg.org/2009/agents/7577
+description: ''
+gutenberg_bookshelf:
+- Chemistry
+- Technology
+gutenberg_issued: '2006-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TS'
+- !lcsh 'Hats'
+title: 'The Chemistry of Hat Manufacturing
+
+  Lectures Delivered Before the Hat Manufacturers'' Association'
+url: http://www.gutenberg.org/ebooks/17740
